@@ -1,5 +1,6 @@
 # EDA-Hotel-Bookings Analysis
 
+
 We are doing data analysis on hotel booking, the data set contains booking information for city hotel 
 and resort hotel and includes information such as, when the booking was made, length of stay, the number 
 of adults, children, and/or babies, and the number of available parking spaces, among other things.
@@ -21,23 +22,9 @@ visualization.
 In data cleaning process, we have done handling missing values, removing duplicate data, converting 
 columns to proper d-type format, and adding or removing some columns for further analysis.
 For Exploratory Data Analysis (EDA), we have checked correlation of numerical data and time series 
-analysis by plotting different graphs and charts. In the EDA process, we have cleaned, preprocessed the 
-data.
+analysis by plotting different graphs and charts. 
 
 we have performed the exploratory data analysis to extract information from the data to 
-answer the following questions.
-
-i. How many booking were cancelled?
-
-ii. What is the booking ratio between resort hotel and city hotel?
-
-iii. Which is the busiest month for hotels?
-
-We got the results that:
-
-i. 27.5 % bookings were cancelled
-ii. More than 60% of the population in the data table booked the City Hotel.
-iii. Most bookings were made from July to August.
 
 From the analysis, we get
 
