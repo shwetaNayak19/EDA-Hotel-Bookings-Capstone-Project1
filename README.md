@@ -6,6 +6,7 @@ of adults, children, and/or babies, and the number of available parking spaces, 
 
 
 We are doing analysis in following ways,
+
  Data collections and loading,
 
  Data wrangling and cleaning, 
@@ -33,11 +34,12 @@ ii. What is the booking ratio between resort hotel and city hotel?
 iii. Which is the busiest month for hotels?
 
 We got the results that:
+
 i. 27.5 % bookings were cancelled
 ii. More than 60% of the population in the data table booked the City Hotel.
 iii. Most bookings were made from July to August.
 
-From the analysis, we would like to conclude our project with following points
+From the analysis, we get
 
  Majority of the hotels booked are City Hotel
 
