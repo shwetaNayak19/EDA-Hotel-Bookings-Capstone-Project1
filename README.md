@@ -6,7 +6,7 @@ and resort hotel and includes information such as, when the booking was made, le
 of adults, children, and/or babies, and the number of available parking spaces, among other things.
 
 
-We are doing analysis in following ways,
+We are doing analysis in following ways:
 
  Data collections and loading,
 
@@ -24,7 +24,7 @@ columns to proper d-type format, and adding or removing some columns for further
 For Exploratory Data Analysis (EDA), we have checked correlation of numerical data and time series 
 analysis by plotting different graphs and charts. 
 
-we have performed the exploratory data analysis to extract information from the data to 
+we have performed the exploratory data analysis to extract information from the data  
 
 From the analysis, we get
 
